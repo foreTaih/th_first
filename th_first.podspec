@@ -23,7 +23,7 @@ new product for iOS kaixin de kaixin de koioiuwe uuikj and how to use it how to 
 
    s.requires_arc = true
 
-   s.dependency "YTKNetwork", "~> 2.0.3"
-   s.dependency "MJExtension", "~> 3.0.13"
+#   s.dependency "YTKNetwork", "~> 2.0.3"
+ #  s.dependency "MJExtension", "~> 3.0.13"
 
 end
