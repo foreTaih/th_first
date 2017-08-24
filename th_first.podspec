@@ -9,12 +9,12 @@ new product for iOS
                    DESC
 
   s.homepage     = "https://github.com/foreTaih/"
-  s.license      = "MIT"
+  s.license      =  { :type => "MIT", :file => "LICENSE" }
    s.author             = { "孙婷婷" => "suntingting@etiaolong.com" }
    s.platform     = :ios
    s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/foreTaih/th_first.git", :tag => "#{s.version}" }
-  s.source_files  = "Manager", "Manager/**/*.{h,m}"
+  s.source       = { :git => "https://github.com/foreTaih/th_first.git", :tag => "s.version" }
+  s.source_files  =  "Manager/*"
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
