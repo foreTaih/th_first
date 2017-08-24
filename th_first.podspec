@@ -13,7 +13,7 @@ new product for iOS kaixin de kaixin de koioiuwe uuikj and how to use it how to 
    s.author             = { "孙婷婷" => "suntingting@etiaolong.com" }
    s.platform     = :ios
    s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/foreTaih/th_first.git", :tag => "s.version" }
+  s.source       = { :git => "https://github.com/foreTaih/th_first.git", :tag => "1.0.0" }
   s.source_files  =  "Manager/*"
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
