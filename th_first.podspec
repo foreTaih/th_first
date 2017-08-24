@@ -2,10 +2,10 @@
 
 Pod::Spec.new do |s|
   s.name         = "th_first"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "my first start of it."
   s.description  = <<-DESC
-new product for iOS
+new product for iOS kaixin de kaixin de koioiuwe uuikj and how to use it how to import it in you project please ask for xxx
                    DESC
 
   s.homepage     = "https://github.com/foreTaih/"
